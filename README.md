@@ -1,6 +1,5 @@
-# MCB198-protein-binding-prediction
-
 # MCB 198: Final Project
+## Design of a Convolutional Neural Network for Biochemically-Informed Classification of Protein-Ligand Interactions
 ### Submitted by: Ilia Gelfat
 
 ## Background and Problem Statement
